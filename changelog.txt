@@ -1,0 +1,433 @@
+= 1.2.0 =
+*Release Date - 14 September 2017*
+
+* Introduce the Zoom feature in the Dashboard
+
+= 1.1.2 =
+*Release Date - 24 August 2017*
+
+* Slightly updated UI
+* Ability to upgrade plan from the interface
+
+= 1.0.1 =
+*Release Date - 08 June 2017*
+
+* Bug fix release
+
+= 1.0.0 =
+*Release Date - 29 May 2017*
+
+* Completely new UI. Thank you Milan & Jean!
+* New onboarding
+* Remove robots.txt handling
+
+= 0.6.1.2 =
+*Release Date - 15 March 2017*
+
+* UI update: detailed request improvements
+
+= 0.6.1 =
+*Release Date - 12 March 2017*
+
+* UI update: detailed request panel
+
+= 0.6.0 =
+*Release Date - 27 February 2017*
+
+* Updated user interface
+* Get the name and description of the bad robots
+* For top identified robots, link to our public robot database
+* In the request screen, click on a request to get details on the agent
+* We hope you'll like it! Tell us what you think!
+
+= 0.5.10 =
+*Release Date - 18 February 2017*
+
+* change how the urls for plugin assets are generated
+
+= 0.5.9 =
+*Release Date - 13 February 2017*
+
+* Handle uninstall hook
+
+= 0.5.8 =
+*Release Date - 26 January 2017*
+
+* disable db execution time tracking
+
+= 0.5.7 =
+*Release Date - 23 January 2017*
+
+* Happy New Year!
+* update PHP libraries: updated session and feedback handling
+* better track execution time: db and http breakdown
+
+= 0.5.6 =
+*Release Date - 1 December 2016*
+
+* UI update: improve Agent logs panel
+
+= 0.5.5 =
+*Release Date - 28 November 2016*
+
+* UI update: more events
+
+= 0.5.4 =
+*Release Date - 24 November 2016*
+
+* UI update: more robot icons
+
+= 0.5.3 =
+*Release Date - 23 November 2016*
+
+* UI update: robots filter
+
+= 0.5.2 =
+*Release Date - 21 November 2016*
+
+* UI update: logs pagination
+
+= 0.5.1 =
+*Release Date - 11 November 2016*
+
+* UI update: Real Time Requests with WebSocket
+
+= 0.5.0 =
+*Release Date - 9 November 2016*
+
+* UI update: Add Worldmap to dashboard, Focus on Robots
+
+= 0.4.29 =
+*Release Date - 31 October 2016*
+
+* update PHP dependency: fix execution time tracking
+
+= 0.4.28 =
+*Release Date - 26 October 2016*
+
+* UI update: bug fix when blocking agents
+
+= 0.4.27 =
+*Release Date - 24 October 2016*
+
+* UI update: smaller JS bundle, bug fixes, update dependencies
+
+= 0.4.26 =
+*Release Date - 18 October 2016*
+
+* update PHP dependencies
+
+= 0.4.25 =
+*Release Date - 12 October 2016*
+
+* whitelist authenticated users
+
+= 0.4.24 =
+*Release Date - 22 September 2016*
+
+* handle registration
+
+= 0.4.23 =
+*Release Date - 21 September 2016*
+
+* support for "Budypress" plugin
+
+= 0.4.23 =
+*Release Date - 21 September 2016*
+
+* support for "Budypress" plugin
+
+= 0.4.22 =
+*Release Date - 21 September 2016*
+
+* support for "Users Ultra Membership" plugin
+
+= 0.4.21 =
+*Release Date - 15 September 2016*
+
+* support for "Contact Form 7" plugin
+
+= 0.4.20 =
+*Release Date - 8 September 2016*
+
+* update UI: better pagination, animation
+
+= 0.4.19 =
+*Release Date - 23 August 2016*
+
+* update UI: events pagination
+
+= 0.4.18 =
+*Release Date - 23 August 2016*
+
+* check if api key is unavailable
+
+= 0.4.17 =
+*Release Date - 27 July 2016*
+
+* fix email validation in key registration
+
+= 0.4.16 =
+*Release Date - 21 July 2016*
+
+* UI update: Events pagination
+
+= 0.4.15 =
+*Release Date - 20 July 2016*
+
+* Improve bad referers blocking
+
+= 0.4.14 =
+*Release Date - 19 July 2016*
+
+* UI update: wording, Latest agents -> Top Agents
+
+= 0.4.13 =
+*Release Date - 19 July 2016*
+
+* UI update: time selectors
+* block bad referers
+
+= 0.4.12 =
+*Release Date - 15 July 2016*
+
+* register feedback URL
+
+= 0.4.11 =
+*Release Date - 14 July 2016*
+
+* add feedback
+
+= 0.4.10 =
+*Release Date - 14 July 2016*
+
+* Bastille Day!
+* update Bouncer library: fastcgi optimisation
+
+= 0.4.9 =
+*Release Date - 13 July 2016*
+
+* update PHP libraries: configuration handling
+
+= 0.4.8 =
+*Release Date - 13 July 2016*
+
+* UI update
+
+= 0.4.7 =
+*Release Date - 11 July 2016*
+
+* UI update: events updated
+
+= 0.4.6 =
+*Release Date - 9 July 2016*
+
+* Fix: array_reverse -> array_flip
+
+= 0.4.5 =
+*Release Date - 8 July 2016*
+
+* Fix email registration
+* Fix username logging
+
+= 0.4.4 =
+*Release Date - 6 July 2016*
+
+* UI update
+
+= 0.4.3 =
+*Release Date - 6 July 2016*
+
+* update PHP libraries
+* fix robots.txt
+
+= 0.4.2 =
+*Release Date - 6 July 2016*
+
+* fix data loading
+
+= 0.4.1 =
+*Release Date - 4 July 2016*
+
+* update copy (UI, Readme)
+
+= 0.4.0 =
+*Release Date - 1 July 2016*
+
+* UI update: Hello Events!
+
+= 0.3.7 =
+*Release Date - 1 July 2016*
+
+* update PHP dependencies
+
+= 0.3.6 =
+*Release Date - 27 June 2016*
+
+* ignore non-POST login_failed/login_succeeded
+
+= 0.3.5 =
+*Release Date - 24 June 2016*
+
+* Fix transient cleaning for Wordpress < 4.4
+
+= 0.3.4 =
+*Release Date - 23 June 2016*
+
+* Local proxy handling
+
+= 0.3.3 =
+*Release Date - 21 June 2016*
+
+* CSS sprites
+
+= 0.3.2 =
+*Release Date - 21 June 2016*
+
+* Summer!
+* updated UI and PHP libraries
+* Dashboard and Events
+
+= 0.3.1 =
+*Release Date - 7 June 2016*
+
+* new UI
+* update PHP libraries
+
+= 0.2.15 =
+*Release Date - 30 May 2016*
+
+* log failed login request parameters
+
+= 0.2.14 =
+*Release Date - 21 May 2016*
+
+* no login_failed event in xmlrpc.php
+
+= 0.2.13 =
+*Release Date - 18 May 2016*
+
+* log more info about XML-RPC queries
+
+= 0.2.12 =
+*Release Date - 17 May 2016*
+
+* always log connection & protocol
+
+= 0.2.11 =
+*Release Date - 13 May 2016*
+
+* forward session id
+
+= 0.2.10 =
+*Release Date - 13 May 2016*
+
+* forward website url
+
+= 0.2.9 =
+*Release Date - 12 May 2016*
+
+* API Key registration
+* session forwarding
+
+= 0.2.8 =
+*Release Date - 11 May 2016*
+
+* forward XML-RPC method name
+
+= 0.2.7 =
+*Release Date - 9 May 2016*
+
+* update to Bouncer 2.0.4
+* first commit with git svn for version control
+
+= 0.2.6 =
+*Release Date - 9 May 2016*
+
+* update to Bouncer 2.0.3
+* embed Cache/HttpClient classes
+* report events
+
+= 0.2.3 =
+*Release Date - 27 April 2016*
+
+* fix blocking
+
+= 0.2.2 =
+*Release Date - 26 April 2016*
+
+* move to stable Access Watch package
+
+= 0.2.0 =
+*Release Date - 25 April 2016*
+
+* major Bouncer class update
+* integrate Access Watch class
+* move endpoints to Access Watch API 1.0
+* block XML-RPC abuse
+
+= 0.1.15 =
+*Release Date - 26 February 2016*
+
+* use WordPress Cookie Path
+
+= 0.1.14 =
+*Release Date - 24 February 2016*
+
+* Block Comment Spam / Brute Force Login
+
+= 0.1.13 =
+*Release Date - 22 February 2016*
+
+* Move to HTTPs
+* Updated embedded dashboard
+
+= 0.1.12 =
+*Release Date - 16 February 2016*
+
+* Fix warning in PHP 5.3 http_response_code
+
+= 0.1.11 =
+*Release Date - 14 February 2016*
+
+* Support for http_response_code with PHP 5.3
+
+= 0.1.10 =
+*Release Date - 13 February 2016*
+
+* Updated JS client
+* About screen
+
+= 0.1.9 =
+*Release Date - 12 February 2016*
+
+* New menus
+* Align checkboxes
+* Ping home on activation
+
+= 0.1.8 =
+*Release Date - 12 February 2016*
+
+* Fix Wordpress HTTP functions
+* Revamp feedback cron job triggering
+* Add a cron job to clean transients
+
+= 0.1.7 =
+*Release Date - 10 February 2016*
+
+* Improve compatibility with PHP older versions
+
+= 0.1.5 =
+*Release Date - 9 February 2016*
+
+* Switch to Wordpress own HTTP methods
+
+= 0.1.2 =
+*Release Date - 8 February 2016*
+
+* Switch to HTTP logging.
+
+= 0.1 =
+*Release Date - 5 February 2016*
+
+* First submit to Wordpress.org. Embarassing... Allow users to see the HTTP traffic in real time.

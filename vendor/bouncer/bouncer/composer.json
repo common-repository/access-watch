@@ -1,0 +1,25 @@
+{
+    "name": "bouncer/bouncer",
+    "description": "A PHP library to log and analyse HTTP traffic, throttle and block suspicious agents.",
+    "keywords": ["bouncer", "log", "logging"],
+    "homepage": "https://github.com/znarf/bouncer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "François Hodierne",
+            "email": "francois@hodierne.net",
+            "homepage": "http://francois.hodierne.net/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.9",
+        "monolog/monolog": "~1.19.0",
+        "symfony/http-foundation": "2.7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bouncer\\": "src"
+        }
+    }
+}
